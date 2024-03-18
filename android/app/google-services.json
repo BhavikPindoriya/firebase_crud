@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766965983832",
+    "project_id": "fir-new-learn-86751",
+    "storage_bucket": "fir-new-learn-86751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766965983832:android:1878ccfe1bbd4f303b382d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_new_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNYSWIpf4QUnjy6elIJyILka5mcvxO9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
