@@ -1,23 +1,30 @@
+# Flutter Firebase Authentication and CRUD Operations
 
-
-Flutter Firebase Authentication and CRUD Operations
+![Flutter](https://img.shields.io/badge/Flutter-2.10-blue.svg)
+![Firebase](https://img.shields.io/badge/Firebase-9.1-orange.svg)
 
 This Flutter project demonstrates how to integrate Firebase authentication using email and phone number, along with Realtime Database and Firestore for CRUD operations. Additionally, it includes functionality for resetting the user's password.
 
-Features
+## Features
 
-Firebase Authentication:
+- **Firebase Authentication:**
+  - Email and password authentication.
+  - Phone number authentication.
 
-Email and password authentication.
-Phone number authentication.
-Firebase Database:
+- **Firebase Database:**
+  - Realtime Database for real-time data synchronization.
+  - Firestore for scalable and flexible data storage.
 
-Realtime Database for real-time data synchronization.
-Firestore for scalable and flexible data storage.
-CRUD Operations:
+- **CRUD Operations:**
+  - Create, Read, Update, and Delete operations on Firebase databases.
+  - Demonstrates how to perform CRUD operations on both Realtime Database and Firestore.
 
-Create, Read, Update, and Delete operations on Firebase databases.
-Demonstrates how to perform CRUD operations on both Realtime Database and Firestore.
-Forgot Password:
+- **Forgot Password:**
+  - Provides a mechanism for users to reset their passwords via email.
 
-Provides a mechanism for users to reset their passwords via email.
+## Setup
+
+1. Clone this repository to your local machine.
+
+```bash
+git clone <repository_url>
