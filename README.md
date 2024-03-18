@@ -1,17 +1,23 @@
-# firebase_new_learn
 
-A new Flutter project.
 
-## Getting Started
+Flutter Firebase Authentication and CRUD Operations
 
-This project is a starting point for a Flutter application.
+This Flutter project demonstrates how to integrate Firebase authentication using email and phone number, along with Realtime Database and Firestore for CRUD operations. Additionally, it includes functionality for resetting the user's password.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Firebase Authentication:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# firebase_crud" 
+Email and password authentication.
+Phone number authentication.
+Firebase Database:
+
+Realtime Database for real-time data synchronization.
+Firestore for scalable and flexible data storage.
+CRUD Operations:
+
+Create, Read, Update, and Delete operations on Firebase databases.
+Demonstrates how to perform CRUD operations on both Realtime Database and Firestore.
+Forgot Password:
+
+Provides a mechanism for users to reset their passwords via email.
