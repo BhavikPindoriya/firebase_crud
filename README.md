@@ -1,17 +1,30 @@
-# firebase_new_learn
+# Flutter Firebase Authentication and CRUD Operations
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-2.10-blue.svg)
+![Firebase](https://img.shields.io/badge/Firebase-9.1-orange.svg)
 
-## Getting Started
+This Flutter project demonstrates how to integrate Firebase authentication using email and phone number, along with Realtime Database and Firestore for CRUD operations. Additionally, it includes functionality for resetting the user's password.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Firebase Authentication:**
+  - Email and password authentication.
+  - Phone number authentication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Firebase Database:**
+  - Realtime Database for real-time data synchronization.
+  - Firestore for scalable and flexible data storage.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# firebase_crud" 
+- **CRUD Operations:**
+  - Create, Read, Update, and Delete operations on Firebase databases.
+  - Demonstrates how to perform CRUD operations on both Realtime Database and Firestore.
+
+- **Forgot Password:**
+  - Provides a mechanism for users to reset their passwords via email.
+
+## Setup
+
+1. Clone this repository to your local machine.
+
+```bash
+git clone <repository_url>
