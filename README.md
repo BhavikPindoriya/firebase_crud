@@ -21,10 +21,3 @@ This Flutter project demonstrates how to integrate Firebase authentication using
 
 - **Forgot Password:**
   - Provides a mechanism for users to reset their passwords via email.
-
-## Setup
-
-1. Clone this repository to your local machine.
-
-```bash
-git clone <repository_url>
